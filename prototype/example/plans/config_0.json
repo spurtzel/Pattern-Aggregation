@@ -1,0 +1,1 @@
+{"id": 0, "forwarding": {"D": [[0, 2, 3], "ACDE"], "AC": [[0, 2, 3], "ACDE"], "A": [[0], "AC"], "E": [[0], "ACDE"]}, "processing": {"AC": ["A", "C", ["A", "C"], 4], "ACDE": ["E", "E", ["D", "E", "AC"], 3]}}
